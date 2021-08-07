@@ -9,6 +9,11 @@ My leetcode account: [sneakyoda](https://leetcode.com/sneakyoda/)
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[java](java/src/leetcode/RemoveDuplicatesFromSortedArray.java)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[java](java/src/leetcode/MergeTwoSortedList.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[java](java/src/leetcode/ValidParentheses.java)|Easy|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[java](java/src/leetcode/LetterCombinationsOfAPhoneNumber.java)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[java](java/src/leetcode/ThreesomeClosest.java)|Medium|
+|15|[3Sum](https://leetcode.com/problems/3sum/)|[java](java/src/leetcode/Threesome.java)|Medium|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[java](java/src/leetcode/LongestCommonPrefix.java)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[java](java/src/leetcode/RomanToInteger.java)|Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[java](java/src/leetcode/IntegerToRoman.java)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[java](java/src/leetcode/ContainerWithMostWater.java)|Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[java](java/src/leetcode/RegularExpressionMatching.java)|Hard|
