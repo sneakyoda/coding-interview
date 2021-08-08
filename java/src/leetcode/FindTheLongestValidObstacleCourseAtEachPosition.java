@@ -12,7 +12,6 @@ class FindTheLongestValidObstacleCourseAtEachPosition {
             int key = map.floorKey(val);
             res[i] = map.get(key) + 1;
             map.put(val, res[i]);
-            final int fuck = res[i];
             while (true) {
                 Integer kk = map.ceilingKey(val + 1);
                 if (kk == null || map.get(kk) >= res[i]) {
