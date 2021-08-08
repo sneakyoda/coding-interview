@@ -11,8 +11,13 @@ My leetcode account: [sneakyoda](https://leetcode.com/sneakyoda/)
 |1962|[Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)|[java](java/src/leetcode/RemoveStonesToMinimizeTheTotal.java)|Medium|
 |1961|[Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)|[java](java/src/leetcode/CheckIfStringIsAPrefixOfArray.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[java](java/src/leetcode/RemoveDuplicatesFromSortedArray.java)|Easy|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[java](java/src/leetcode/ReverseNodesInKGroup.java)|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[java](java/src/leetcode/SwapNodesInPairs.java)|Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[java](java/src/leetcode/MergeKSortedLists.java)|Hard|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[java](java/src/leetcode/GenerateParentheses.java)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[java](java/src/leetcode/MergeTwoSortedList.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[java](java/src/leetcode/ValidParentheses.java)|Easy|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[java](java/src/leetcode/RemoveNthNodeFromEndOfList.java)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[java](java/src/leetcode/LetterCombinationsOfAPhoneNumber.java)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[java](java/src/leetcode/ThreesomeClosest.java)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[java](java/src/leetcode/Threesome.java)|Medium|
