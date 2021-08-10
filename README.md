@@ -10,6 +10,11 @@ My leetcode account: [sneakyoda](https://leetcode.com/sneakyoda/)
 |1963|[Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|[java](java/src/leetcode/MinimumNumberOfSwapsToMakeTheStringBalanced.java)|Medium|
 |1962|[Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)|[java](java/src/leetcode/RemoveStonesToMinimizeTheTotal.java)|Medium|
 |1961|[Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)|[java](java/src/leetcode/CheckIfStringIsAPrefixOfArray.java)|Easy|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[java](java/src/leetcode/LongestValidParentheses.java)|Hard|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[java](java/src/leetcode/NextPermutation.java)|Medium|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[java](java/src/leetcode/SubstringWithConcatenationOfAllWords.java)|Hard|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[java](java/src/leetcode/ImplementStrStr.java)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[java](java/src/leetcode/RemoveElement.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[java](java/src/leetcode/RemoveDuplicatesFromSortedArray.java)|Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[java](java/src/leetcode/ReverseNodesInKGroup.java)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[java](java/src/leetcode/SwapNodesInPairs.java)|Medium|
