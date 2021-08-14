@@ -10,6 +10,11 @@ My leetcode account: [sneakyoda](https://leetcode.com/sneakyoda/)
 |1963|[Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|[java](java/src/leetcode/MinimumNumberOfSwapsToMakeTheStringBalanced.java)|Medium|
 |1962|[Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)|[java](java/src/leetcode/RemoveStonesToMinimizeTheTotal.java)|Medium|
 |1961|[Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)|[java](java/src/leetcode/CheckIfStringIsAPrefixOfArray.java)|Easy|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[java](java/src/leetcode/TrappingRainWater.java)|Hard|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[java](java/src/leetcode/FirstMissingPositive.java)|Hard|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[java](java/src/leetcode/CombinationSumII.java)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[java](java/src/leetcode/CombinationSum.java)|Medium|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[java](java/src/leetcode/CountAndSay.java)|Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[java](java/src/leetcode/SudokuSolver.java)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[java](java/src/leetcode/ValidSudoku.java)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[java](java/src/leetcode/SearchInsertPosition.java)|Easy|
