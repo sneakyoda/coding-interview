@@ -10,6 +10,11 @@ My leetcode account: [sneakyoda](https://leetcode.com/sneakyoda/)
 |1963|[Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|[java](java/src/leetcode/MinimumNumberOfSwapsToMakeTheStringBalanced.java)|Medium|
 |1962|[Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)|[java](java/src/leetcode/RemoveStonesToMinimizeTheTotal.java)|Medium|
 |1961|[Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)|[java](java/src/leetcode/CheckIfStringIsAPrefixOfArray.java)|Easy|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[java](java/src/leetcode/PermutationsII.java)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[java](java/src/leetcode/Permutations.java)|Medium|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[java](java/src/leetcode/JumpGameII.java)|Medium|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[java](java/src/leetcode/WildcardMatching.java)|Hard|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[java](java/src/leetcode/MultiplyStrings.java)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[java](java/src/leetcode/TrappingRainWater.java)|Hard|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[java](java/src/leetcode/FirstMissingPositive.java)|Hard|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[java](java/src/leetcode/CombinationSumII.java)|Medium|
