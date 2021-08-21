@@ -10,6 +10,11 @@ My leetcode account: [sneakyoda](https://leetcode.com/sneakyoda/)
 |1963|[Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|[java](java/src/leetcode/MinimumNumberOfSwapsToMakeTheStringBalanced.java)|Medium|
 |1962|[Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)|[java](java/src/leetcode/RemoveStonesToMinimizeTheTotal.java)|Medium|
 |1961|[Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)|[java](java/src/leetcode/CheckIfStringIsAPrefixOfArray.java)|Easy|
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[java](java/src/leetcode/InsertInterval.java)|Medium|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[java](java/src/leetcode/MergeIntervals.java)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[java](java/src/leetcode/JumpGame.java)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[java](java/src/leetcode/SpiralMatrix.java)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[java](java/src/leetcode/MaximumSubarray.java)|Easy|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[java](java/src/leetcode/NQueensII.java)|Hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[java](java/src/leetcode/NQueens.java)|Hard|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[java](java/src/leetcode/PowXn.java)|Medium|
