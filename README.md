@@ -10,6 +10,11 @@ My leetcode account: [sneakyoda](https://leetcode.com/sneakyoda/)
 |1963|[Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|[java](java/src/leetcode/MinimumNumberOfSwapsToMakeTheStringBalanced.java)|Medium|
 |1962|[Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)|[java](java/src/leetcode/RemoveStonesToMinimizeTheTotal.java)|Medium|
 |1961|[Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)|[java](java/src/leetcode/CheckIfStringIsAPrefixOfArray.java)|Easy|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[java](java/src/leetcode/UniquePaths.java)|Medium|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[java](java/src/leetcode/RotateList.java)|Medium|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[java](java/src/leetcode/PermutationSequence.java)|Hard|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[java](java/src/leetcode/SpiralMatrixII.java)|Medium|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[java](java/src/leetcode/LengthOfLastWord.java)|Easy|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[java](java/src/leetcode/InsertInterval.java)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[java](java/src/leetcode/MergeIntervals.java)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[java](java/src/leetcode/JumpGame.java)|Medium|
