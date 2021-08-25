@@ -10,6 +10,11 @@ My leetcode account: [sneakyoda](https://leetcode.com/sneakyoda/)
 |1963|[Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|[java](java/src/leetcode/MinimumNumberOfSwapsToMakeTheStringBalanced.java)|Medium|
 |1962|[Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)|[java](java/src/leetcode/RemoveStonesToMinimizeTheTotal.java)|Medium|
 |1961|[Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)|[java](java/src/leetcode/CheckIfStringIsAPrefixOfArray.java)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[java](java/src/leetcode/AddBinary.java)|Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[java](java/src/leetcode/PlusOne.java)|Easy|
+|65|[Valid Number](https://leetcode.com/problems/valid-number/)|[java](java/src/leetcode/ValidNumber.java)|Hard|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[java](java/src/leetcode/MinimumPathSum.java)|Medium|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[java](java/src/leetcode/UniquePathsII.java)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[java](java/src/leetcode/UniquePaths.java)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[java](java/src/leetcode/RotateList.java)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[java](java/src/leetcode/PermutationSequence.java)|Hard|
