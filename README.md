@@ -10,6 +10,11 @@ My leetcode account: [sneakyoda](https://leetcode.com/sneakyoda/)
 |1963|[Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|[java](java/src/leetcode/MinimumNumberOfSwapsToMakeTheStringBalanced.java)|Medium|
 |1962|[Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/)|[java](java/src/leetcode/RemoveStonesToMinimizeTheTotal.java)|Medium|
 |1961|[Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)|[java](java/src/leetcode/CheckIfStringIsAPrefixOfArray.java)|Easy|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[java](java/src/leetcode/EditDistance.java)|Hard|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[java](java/src/leetcode/SimplifyPath.java)|Medium|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[java](java/src/leetcode/ClimbingStairs.java)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[java](java/src/leetcode/SqrtX.java)|Easy|
+|68|[Text Justification](https://leetcode.com/problems/text-justification/)|[java](java/src/leetcode/TextJustification.java)|Hard|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[java](java/src/leetcode/AddBinary.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[java](java/src/leetcode/PlusOne.java)|Easy|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)|[java](java/src/leetcode/ValidNumber.java)|Hard|
